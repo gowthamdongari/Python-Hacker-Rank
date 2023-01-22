@@ -1,10 +1,23 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-![GitHub](https://img.shields.io/github/license/gowthamdongari/Python-Hacker-Rank)
-![GitHub top language](https://img.shields.io/github/languages/top/gowthamdongari/Python-Hacker-Rank)
-![GitHub last commit](https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank)
-![ViewCount](https://views.whatilearened.today/views/github/gowthamdongari/Python-Hacker-Rank.svg?cache=remove)
+[![GitHub last commit][commit-shield]][commit-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![ViewCount][view-shield]][view-url]
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D0D3D4&background=000000&center=true&vCenter=true&width=435&lines=Python+Hacker+Rank+Solutions" alt="Typing SVG" /></a>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://Python-Hacker-Rank-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D0D3D4&background=000000&center=true&vCenter=true&width=435&lines=Python+Hacker+Rank+Solutions" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">  
@@ -45,3 +58,26 @@ The solutions of all the Python Basic challenges on HackerRank executed on Pytho
 | **SNo.**  | **Contents**                              | **Solution** |
 |-----------|-------------------------------------------|--------------------|
 | 013.        | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/79399b7f5fb834395090c292a844fbf6bfef33a1/3.%20Strings%20Operations%20(13%20to%2025)/13.%20sWAP%20cASE.py)  |
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[contributors-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[forks-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/network/members
+[stars-shield]: https://img.shields.io/github/stars/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[stars-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[issues-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/issues
+[license-shield]: https://img.shields.io/github/license/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[license-url]: https://github.com/gowthamdongari/Python-Hacker-Rank/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/gowthamdongari/
+[commit-shield]: https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[commit-url]: https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank
+[view-shield]: https://img.shields.io/github/watchers/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[view-url]: https://views.whatilearened.today/views/github/gowthamdongari/Python-Hacker-Rank.svg?cache=remove

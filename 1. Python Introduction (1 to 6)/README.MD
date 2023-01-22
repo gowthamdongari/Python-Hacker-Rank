@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank)
 ![ViewCount](https://views.whatilearened.today/views/github/gowthamdongari/Python-Hacker-Rank.svg?cache=remove)
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D0D3D4&background=000000&center=true&vCenter=true&width=435&lines=Python+Hacker+Rank+Solutions" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://Python-Hacker-Rank-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=D0D3D4&background=000000&center=true&vCenter=true&width=435&lines=Python+Hacker+Rank+Solutions" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">  
