@@ -88,5 +88,5 @@ The solutions of all the Python Basic challenges on HackerRank executed on Pytho
 [linkedin-url]: https://www.linkedin.com/in/gowthamdongari/
 [commit-shield]: https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
 [commit-url]: https://img.shields.io/github/last-commit/gowthamdongari/Python-Hacker-Rank
-[view-shield]: https://img.shields.io/github/watchers/gowthamdongari/Python-Hacker-Rank.svg?style=for-the-badge
+[view-shield]: https://views.whatilearened.today/views/github/gowthamdongari/Python-Hacker-Rank.svg?cache=remove
 [view-url]: https://views.whatilearened.today/views/github/gowthamdongari/Python-Hacker-Rank.svg?cache=remove
