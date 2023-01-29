@@ -50,6 +50,12 @@ The solutions of all the Python Basic challenges on HackerRank executed on Pytho
 | **SNo.**  | **Contents**                              | **Solution** |
 |-----------|-------------------------------------------|--------------------|
 | 007.        | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/79399b7f5fb834395090c292a844fbf6bfef33a1/2.%20Basic%20Data%20Types%20(6%20to%2012)/7.%20List%20Comprehension.py)  |
+| 008       | [Find runner up score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/2.%20Basic%20Data%20Types%20(6%20to%2012)/008.%20Find_runner_up_score.py)  |
+| 009       | [Nested List](https://www.hackerrank.com/challenges/nested-list/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/2.%20Basic%20Data%20Types%20(6%20to%2012)/009.%20Nested_list.py)  |
+| 010       | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/2.%20Basic%20Data%20Types%20(6%20to%2012)/010.%20Finding_the_Percentage.py)  |
+| 011       | [Lists](https://www.hackerrank.com/challenges/python-lists/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/2.%20Basic%20Data%20Types%20(6%20to%2012)/011.%20Lists.py)  |
+| 012       | [Tuples (hash)](https://www.hackerrank.com/challenges/python-tuples/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/2.%20Basic%20Data%20Types%20(6%20to%2012)/012.%20Tuples%20(hash).py)  |
+
 
 
 ### String Operations
@@ -57,8 +63,11 @@ The solutions of all the Python Basic challenges on HackerRank executed on Pytho
 ## `Table of Contents 📋`
 | **SNo.**  | **Contents**                              | **Solution** |
 |-----------|-------------------------------------------|--------------------|
-| 013.        | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/79399b7f5fb834395090c292a844fbf6bfef33a1/3.%20Strings%20Operations%20(13%20to%2025)/13.%20sWAP%20cASE.py)  |
-
+| 013       | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/79399b7f5fb834395090c292a844fbf6bfef33a1/3.%20Strings%20Operations%20(13%20to%2025)/13.%20sWAP%20cASE.py)  |
+| 014       | [string split and join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/014.%20String%20Split%20and%20Join.py)  |
+| 015       | [What's your name](https://www.hackerrank.com/challenges/whats-your-name/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/015.%20What's%20your%20name%20(printing%20first%20last).py)  |
+| 016       | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/016.%20Mutations.py)  |
+| 017       | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/017.%20Find%20a%20string%20(substring).py)  |
 
 
 
