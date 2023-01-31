@@ -68,7 +68,8 @@ The solutions of all the Python Basic challenges on HackerRank executed on Pytho
 | 015       | [What's your name](https://www.hackerrank.com/challenges/whats-your-name/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/015.%20What's%20your%20name%20(printing%20first%20last).py)  |
 | 016       | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/016.%20Mutations.py)  |
 | 017       | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/559a5fa0918e48a39fddf59d9dfe1ae1762fbb9b/3.%20Strings%20Operations%20(13%20to%2025)/017.%20Find%20a%20string%20(substring).py)  |
-
+| 018       | [String Validation](https://www.hackerrank.com/challenges/string-validators/problem)  | [Python](https://github.com/gowthamdongari/Python-Hacker-Rank/blob/84809e1b1e5117788993289164d88977d545954e/3.%20Strings%20Operations%20(13%20to%2025)/018.%20String%20Validators.py)  |
+| 019       | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)  | [Python]()  |
 
 
 
